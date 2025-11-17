@@ -28,22 +28,7 @@ npm run build
 Previewing Production Build
 npm run serve
 Folder Structure
-/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/       # React components (buttons, cards, etc.)
-│   ├── pages/            # Page components (Home, ProductDetail, Cart)
-│   ├── assets/           # Images, icons, logos
-│   ├── styles/           # CSS / SCSS / Tailwind config
-│   ├── utils/            # Utilities, API clients, helpers
-│   ├── App.jsx           # Root component
-│   └── main.jsx          # Entry point
-├── .gitignore
-├── package.json
-├── vite.config.js
-├── eslint.config.js
-└── README.md
+<img width="789" height="512" alt="image" src="https://github.com/user-attachments/assets/60c0c6ad-e29b-4cdf-8c4e-ca240faa9a9e" />
 
 
 
